@@ -1,8 +1,10 @@
+<p align="center">
+  <img width="518" height="197" src="https://raw.githubusercontent.com/var512/reaver-light-theme-jetbrains/master/extra/logo.png">
+</p>
+
 ### Reaver Light
 
 Reaver Light is a theme for JetBrains IDEs (version 2019.1 and above).
-
-![Reaver Light](extra/main.png)
 
 ### Screenshots
 
