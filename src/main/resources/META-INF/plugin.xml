@@ -1,0 +1,21 @@
+<idea-plugin>
+    <id>test.var512.ReaverLightTheme</id>
+    <name>Reaver Light Theme</name>
+    <vendor url="https://github.com/var512">var512</vendor>
+
+    <description><![CDATA[
+      Reaver Light is a theme for JetBrains IDEs (version 2019.1 and above).
+    ]]></description>
+
+    <!-- https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="ef230a2c-8cbf-465f-8498-76a0bac186cf" path="/ReaverLight.theme.json"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>

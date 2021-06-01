@@ -1,0 +1,36 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.intellij' version '1.0'
+}
+
+group 'test.var512'
+version '0.2.0'
+
+repositories {
+    mavenCentral()
+}
+
+intellij {
+    version = 'LATEST-EAP-SNAPSHOT'
+    updateSinceUntilBuild = true
+}
+
+patchPluginXml {
+    sinceBuild = '191'
+
+    changeNotes = """
+        <b>0.2.0</b><br>
+        <ul>
+          <li>Fix wrong checkbox background</li>
+          <li>Migrate from DevKit to Gradle</li>
+        </ul>
+        <br>
+        <b>0.1.0</b><br>
+        Initial release (version 2019.1 and above)
+        <ul>
+          <li>UI theme</li>
+          <li>Color scheme</li>
+        </ul>
+    """
+}
+
