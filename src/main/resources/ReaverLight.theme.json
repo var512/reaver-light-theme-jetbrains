@@ -194,7 +194,7 @@
       "Checkbox.Border.Default": "#d5d5d5",
       "Checkbox.Background.Selected": "#4e74cb",
       "Checkbox.Border.Selected": "#4e74cb",
-      "Checkbox.Foreground.Selected": "#4e74cb",
+      "Checkbox.Foreground.Selected": "#ffffff",
       "Checkbox.Focus.Wide": "#4388e3",
       "Checkbox.Focus.Thin.Default": "#d5d5d5",
       "Checkbox.Focus.Thin.Selected": "#ffffff",
