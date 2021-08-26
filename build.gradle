@@ -16,7 +16,7 @@ intellij {
 }
 
 patchPluginXml {
-    sinceBuild = '191'
+    sinceBuild = '212'
 
     changeNotes = """
         <b>0.2.0</b><br>

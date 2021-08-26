@@ -4,7 +4,7 @@
 
 ### Reaver Light
 
-Reaver Light is a theme for JetBrains IDEs (version 2019.1 and above).
+Reaver Light is a theme for JetBrains IDEs (version 2021.2 and above).
 
 ### Screenshots
 
