@@ -1,5 +1,5 @@
-<p align="center">
-  <img width="518" height="197" src="https://raw.githubusercontent.com/var512/reaver-light-theme-jetbrains/master/extra/logo.png">
+<p style="text-align: center;">
+  <img width="518" height="197" src="https://raw.githubusercontent.com/var512/reaver-light-theme-jetbrains/master/extra/logo.png" alt="">
 </p>
 
 ### Reaver Light
