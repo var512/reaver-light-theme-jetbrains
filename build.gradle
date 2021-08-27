@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'test.var512'
-version '0.2.0'
+version '0.3.0'
 
 repositories {
     mavenCentral()
@@ -19,6 +19,13 @@ patchPluginXml {
     sinceBuild = '212'
 
     changeNotes = """
+        <b>0.3.0</b><br>
+        <ul>
+          <li>Improve visibility of yellow objects</li>
+          <li>Fix CompletionPopup colors contrast</li>
+          <li>Bump minimal IDE version to 2021.2</li>
+        </ul>
+        <br>
         <b>0.2.0</b><br>
         <ul>
           <li>Fix wrong checkbox background</li>
