@@ -176,6 +176,8 @@
   },
   "icons": {
     "ColorPalette": {
+      "Objects.Yellow": "#eaad46ff",
+      "Objects.YellowDark": "#f7a100ff",
       "Checkbox.Background.Default": "#f3f3f3",
       "Checkbox.Border.Default": "#d5d5d5",
       "Checkbox.Background.Selected": "#4e74cb",
